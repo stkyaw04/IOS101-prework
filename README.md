@@ -41,8 +41,9 @@ Apps I enjoy and why:
     - Create time blocks and plan the week
 
 Apps I would like to build:
-     - A notes-like app where users can write down and store vocabulary they newly encountered/learned with definitions in their own words which also reinforces their understanding by quizzes throughout the day via widget or notifications. Features would include a page for users to enter their word with definition, a page with a list of saved words, an option to customize their quiz schedule or leave it to default random and ability to add a widget on their homescreen displaying random words at any time. 
-     - A social media-like app where users can collaborate on a folder of movies or shows they recommend or want to watch together. Similarly, this can be done for hangout spots or restaurants, etc. 
+
+- A notes-like app where users can write down and store vocabulary they newly encountered/learned with definitions in their own words which also reinforces their understanding by quizzes throughout the day via widget or notifications. Features would include a page for users to enter their word with definition, a page with a list of saved words, an option to customize their quiz schedule or leave it to default random and ability to add a widget on their homescreen displaying random words at any time. 
+- A social media-like app where users can collaborate on a folder of movies or shows they recommend or want to watch together. Similarly, this can be done for hangout spots or restaurants, etc. 
 
 ## Notes
 
