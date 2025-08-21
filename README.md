@@ -2,7 +2,7 @@
 
 Submitted by: **Su Thiri Kyaw**
 
-**Color Changer** is an app that changes its background and text label colors randomly when the "Go Crazy" button is pressed.
+**Color Changer** is an app that changes its background and text label colors to another random color when the "Go Crazy" button is pressed.
 
 Time spent: **less than 1** hours spent in total
 
@@ -21,9 +21,32 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+Apps I enjoy and why:
+
+- Notion
+    - Create databases to keep track of books/TV Shows I watch
+    - Ability to customize the page with icons, images and GIFs
+- Instagram
+    - Save and organize videos I want to revisit into folders
+    - Collaborate with others on saved video folders
+- Snapchat
+    - Instantly share snaps of what I'm doing
+    - Save snap memories to look back on
+    - Receive snap memories on anniversaries
+- Spotify
+    - Collaborate with others on playlists
+    - Create and customize the look of playlists
+- Google Calendar
+    - Get reminders of scheduled events
+    - Create time blocks and plan the week
+
+Apps I would like to build:
+     - A notes-like app where users can write down and store vocabulary they newly encountered/learned with definitions in their own words which also reinforces their understanding by quizzes throughout the day via widget or notifications. 
+     - A social media-like app where users can collaborate on a folder of movies or shows they recommend or want to watch together. Similarly, this can be done for hangout spots or restaurants, etc. 
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+- I couldn't really find the where some of the tools were at first but I learned to navigate it comfortably after some searches and help
 
 ## License
 
